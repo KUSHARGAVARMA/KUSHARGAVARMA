@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React.js/REDUX/SCSS
-- 🌱 I’m currently learning Node.js/Express.js
+- 🔭 I’m currently working on React.js/REDUX/SCSS Node.js/Express.js
+- 🌱 I’m currently learning Next js 
 - 💬 Ask me about IoT, Web Dev, FrontEnd apps
 - 📫 How to reach me: kushavrm008@gmail.com
 - 😄 Pronouns: He
